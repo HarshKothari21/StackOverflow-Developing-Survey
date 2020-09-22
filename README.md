@@ -8,6 +8,8 @@ The **StackOverflow Developer Survey** data contains ~80K records from 2019 and 
 - ### This Data can benefit companies in hiring process and more importantly understand users pattern.
 - ### Developers can also use the results to know Current and future trending technologies, Prefered plaform or to understand developers data with high compensation and many other things.
 
+---
+
 <center><h1>---KeyPoints---</h1></center>
 
 ### Prefered Lanuages to start with! Majority of developers tend to know these.
